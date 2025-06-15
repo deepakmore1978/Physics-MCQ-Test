@@ -33,7 +33,7 @@
         <section id="chapter3" class="note-section">
             <h2>Chapter 3: Current Electricity</h2>
             <p>Current electricity deals with the movement of charge...</p>
-            <a href="notes/current_electricity.pdf" class="download-btn" target="_blank">Download PDF</a>
+            <a href="[notes/current_electricity.pdf" class="download-btn" target="_blank](https://docs.google.com/forms/d/e/1FAIpQLSdXuRzpm0xnJMAYlW6YFLypQ425j7Aptdj91krblibz-HABTw/viewform?usp=sharing&ouid=112114855910623175157)">Download PDF</a>
         </section>
     </main>
 
