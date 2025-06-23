@@ -11,7 +11,7 @@
     <aside class="sidebar">
         <h2>Class 12 Physics</h2>
         <ul id="notes-menu">
-            <li><a href="#chapter1">Chapter 1: Electric Charges</a></li>
+            <li><a href="[#chapter1](https://docs.google.com/forms/d/e/1FAIpQLSf9CZhoWIBzgo6aJptAsvU6He7HStPt42YHoWS_7j4zincDUQ/viewform?usp=sharing&ouid=112114855910623175157)">PHYSICS 8.6.25</a></li>
             <li><a href="#chapter2">Chapter 2: Electrostatic Potential</a></li>
             <li><a href="#chapter3">Chapter 3: Current Electricity</a></li>
         </ul>
